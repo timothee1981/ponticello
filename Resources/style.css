@@ -1,12 +1,15 @@
 /*main body style*/
 body{
-margin: 0;
-padding: 5;
+padding: 5px;
 height: 100%;
-margin: 0px;
+margin: 10px;
+background-color: white;
 }
 
-/*h1,h2,h3,h4*/
+h1,h2,h3,h4{
+
+  color:black;
+}
 
 
 
@@ -15,14 +18,15 @@ margin: 0px;
 p{
   font-family: Helvetica;
   font-size: 18px;
+  color: black;
 }
 
 /*link style*/
 a{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
-    color: black;
     text-decoration: none;
+    color: black;
    
    
 }
@@ -35,6 +39,14 @@ nav{
     height: 28px;
     width: 196px;
     padding: 1%;
+    color: black;
     
+}
+
+
+/*form*/
+
+form{
+  color:black;
 }
 
