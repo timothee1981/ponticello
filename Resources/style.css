@@ -59,11 +59,21 @@ p{
 }
 
 
+/*overOns page style*/
 
-/*form*/
-
-form{
-  color: black;
+  /*styling the the text and images from over ons*/
   
-}
+  .overdiv{
+    display: inline-flex;
+  }
 
+  .remcodiv{
+    justify-content: left;
+    margin: 1px 30px;
+  
+  }
+
+  .timotdiv{
+    justify-content: right;
+    margin: 1px 30px;
+  }
